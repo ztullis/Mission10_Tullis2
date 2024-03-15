@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission10_Tullis_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1f428087363d3775e243a9b4d9a5e5a0f2a1dc7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a342354dbe6e77cac4aa54533496f1a0502ff8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission10_Tullis_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission10_Tullis_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
